@@ -7,7 +7,8 @@ The program is meant to run once and complete one of 3 operations:
 1. Send an email with a given sender, recipient, and content.
 2. Return all of the mail sent to a given user.
 3. Return all mails whose content contains a given string.
-The video shows this in action. The database starts with 2 emails addressed to user `Sudar` (operation 1). Using command 1, I send 2 emails to `Kathir`, from users `Sudar` and `Ashwin`. I then check `Kathir`'s inbox (operation 2) to verify that 2 results show up and they are the emails I just sent before. Finally, I use operation 3 to term search for "hey", yielding the 2 emails that were originally there, and also search the term "what's" for good measure.
+
+The video linked above shows this in action. The database starts with 2 emails addressed to user `Sudar` (operation 1). Using command 1, I send 2 emails to `Kathir`, from users `Sudar` and `Ashwin`. I then check `Kathir`'s inbox (operation 2) to verify that 2 results show up and they are the emails I just sent before. Finally, I use operation 3 to term search for "hey", yielding the 2 emails that were originally there, and also search the term "what's" for good measure.
 
 ## Run Program
 1. After Python is installed, navigate to root and install dependencies with `pip install -r requirements.txt`
