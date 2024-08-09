@@ -1,6 +1,7 @@
 # Notion Take-Home Assessment
 
 **Walkthrough Video:** https://drive.google.com/file/d/1rvl-7s5ly8tjAqurhUadzyS-23OoDVrd/preview
+**Notion Database:** https://www.notion.so/9d917d9de1a34184be855d679baf7420?v=30191fed75fb4a33b5c59fd8a3a89e7a&pvs=4
 
 ## General Overview
 The program is meant to run once and complete one of 3 operations:
