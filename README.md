@@ -2,6 +2,8 @@
 
 **Walkthrough Video:** https://drive.google.com/file/d/1rvl-7s5ly8tjAqurhUadzyS-23OoDVrd/preview
 
+**Notion Database:** https://www.notion.so/9d917d9de1a34184be855d679baf7420?v=30191fed75fb4a33b5c59fd8a3a89e7a&pvs=4
+
 ## General Overview
 The program is meant to run once and complete one of 3 operations:
 1. Send an email with a given sender, recipient, and content.
@@ -13,6 +15,7 @@ The video linked above shows this in action. The database starts with 2 emails a
 ## Run Program
 1. After Python is installed, navigate to root and install dependencies with `pip install -r requirements.txt`
 2. Now in root, we simply run `python3 app.py` to begin the CLI app.
+3. Run `python3 app.py` again each time you want to do an operation.
 
 ## Additions:
 I made 2 main additions past the base requirements in the 3 hours I allocated to this.
